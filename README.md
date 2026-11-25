@@ -7,7 +7,17 @@ Given a person’s **weight (kg)**, the notebook learns a line **y = mx + b** to
 
 ## 🔗 Quick Access
 
-[![📂 View Repository](https://img.shields.io/badge/View_on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/963n/Gradient-Descent-Linear-Regression-No-Libraries-)
+[![📂 View Repository](https://img.shields.io/badge/View_on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/moalawfi/gradient-descent-from-scratch)
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="assets/regression_fit.png" width="48%" alt="Regression line fit" />
+  <img src="assets/loss_curve.png" width="48%" alt="Loss during training" />
+</p>
+<p align="center"><sub>Learned regression line · MSE loss during training</sub></p>
 
 ---
 
@@ -170,7 +180,7 @@ If the dataset CSV is not included in this repository, and you want the exact fi
 **Mohammed Alawfi**
 📍 Madinah, Saudi Arabia
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-000?logo=github\&logoColor=fff)](https://github.com/963n)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-000?logo=github\&logoColor=fff)](https://github.com/moalawfi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin\&logoColor=fff)](https://www.linkedin.com/in/mohammed-a-3913a5378/)
 
 ---
